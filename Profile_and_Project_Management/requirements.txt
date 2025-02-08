@@ -1,0 +1,7 @@
+django
+whitenoise
+django-cors-headers
+pillow
+djangorestframework
+djangorestframework-simplejwt
+mysqlclient
